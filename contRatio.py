@@ -1,6 +1,7 @@
 #! /usr/bin/env python3.4
 
 import math
+#test chage
 
 def componentise(hexValue):
     '''Take an input hex string represtentation of a colour and splits it into 
